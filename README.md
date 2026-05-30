@@ -8,6 +8,7 @@ Secrets yang dibutuhkan
 Repository → Settings → Secrets
 
 EC2_HOST
+
 EC2_PRIVATE_KEY
 
 Fungsi-fungsi CI
